@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    margin-right: 32px;
+}
+
+.menu li {
+    margin: auto 12px;
+}
+
+.menu li a {
+    color: #000;
+}
+
+.menu li a:hover {
+    text-decoration: underline;
+}
+
+button{
+    border-radius: 8px;
+    border-color: #283747 ;
+    background-color: #283747;
+    color: white;
+}
